@@ -1,0 +1,8 @@
+{
+  "name": "email-html-compat-plugin",
+  "description": "웹 HTML/CSS 코드를 이메일 본문 발송용 HTML로 변환하는 전문 스킬",
+  "version": "1.0.0",
+  "author": {
+    "name": "SOLSOLHANE"
+  }
+}
